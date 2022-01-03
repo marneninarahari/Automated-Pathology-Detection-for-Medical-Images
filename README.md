@@ -4,7 +4,7 @@
 
 ### Data for this project is taken from a Kaggle contest: https://www.kaggle.com/c/vietai-advance-course-retinal-disease-detection/overview
 
-#### Explanation of the data set: The training data set contains 3435 retinal images that represent multiple pathological disorders. The patholgy classes and corresponding labels are included in 'train.csv' file and each image can have more than one class category (multiple pathologies). The labels for each image are
+#### Explanation of the data set: The training data set contains 3435 retinal images that represent multiple pathological disorders. The patholgy classes and corresponding labels are included in the 'train.csv' file and each image can have more than one class category (multiple pathologies). The labels for each image are
 
 #### -opacity (0) 
 #### -diabetic retinopathy (1)
@@ -18,4 +18,4 @@
 
 #### Task 2: Visualize the heatmap/saliency/features using any method of your choice to demonstrate what regions of interest contribute to Diabetic Retinopathy and Glaucoma, respectively.
 
-#### Task 3: Using the unlabelled data set in the 'test' folder augment the training data (semi-supervised learning) and reported the variation in classification performance on test data set.
+#### Task 3: Using the unlabelled data set in the 'test' folder augment the training data (semi-supervised learning) and reported the variation in classification performance on the test data set.
