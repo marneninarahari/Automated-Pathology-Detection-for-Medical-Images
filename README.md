@@ -14,6 +14,7 @@
 #### -retinal vascular occlusion (5)
 #### -normal (6)
 
+### Results:
 #### •	Build a classification model for Diabetic Retinopathy and Glaucoma vs normal images.
 #### •	Visualized the heatmaps/features using GRD-CAM method to demonstrate what regions of interest contribute to Diabetic Retinopathy and Glaucoma, respectively.
 #### •	Semi-supervised learning was performed to label the unlabeled test data and reported the variation in classification performance on the augmented data.
