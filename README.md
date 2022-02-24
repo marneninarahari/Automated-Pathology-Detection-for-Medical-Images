@@ -16,6 +16,6 @@
 
 #### Task 1: Built a classification model for Diabetic Retinopathy and Glaucoma vs normal images.
 
-#### Task 2: Visualize the heatmap/saliency/features using any method of your choice to demonstrate what regions of interest contribute to Diabetic Retinopathy and Glaucoma, respectively.
+#### Task 2: Generated the heatmaps using any using Grad-CAM method to demonstrate what regions of interest are contributing to Diabetic Retinopathy and Glaucoma, respectively.
 
-#### Task 3: Using the unlabelled data set in the 'test' folder augment the training data (semi-supervised learning) and reported the variation in classification performance on the test data set.
+#### Task 3: Using the unlabelled data set in the 'test' folder augmented the training data (semi-supervised learning) and reported the variation in classification performance on the unseen test data set.
