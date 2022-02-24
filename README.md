@@ -1,6 +1,6 @@
 # Computer_Vision_Project---Automated-Pathology-Detection-for-Medical-Images
 
-### The goal is to design models and methods to predictively detect pathological images and explain the pathology sites in the image data.
+### The goal is to design AI model to detect pathological images and explain the pathology sites in the image data.
 
 ### Data for this project is taken from a Kaggle contest: https://www.kaggle.com/c/vietai-advance-course-retinal-disease-detection/overview
 
@@ -14,8 +14,7 @@
 #### -retinal vascular occlusion (5)
 #### -normal (6)
 
-#### Task 1: Built a classification model for Diabetic Retinopathy and Glaucoma vs normal images.
-
-#### Task 2: Generated the heatmaps using any using Grad-CAM method to demonstrate what regions of interest are contributing to Diabetic Retinopathy and Glaucoma, respectively.
-
-#### Task 3: Using the unlabelled data set in the 'test' folder augmented the training data (semi-supervised learning) and reported the variation in classification performance on the unseen test data set.
+#### •	Data for this project is taken from a Kaggle contest. 
+#### •	Built a classification model for Diabetic Retinopathy and Glaucoma vs normal images.
+#### •	Visualized the heatmaps/features using GRD-CAM method to demonstrate what regions of interest contribute to Diabetic Retinopathy and Glaucoma, respectively.
+#### •	Semi-supervised learning was performed to label the unlabeled test data and reported the variation in classification performance on the augmented data.
